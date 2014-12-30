@@ -49,7 +49,10 @@ install openssl
 install pcre
 install pkg-config
 install protobuf
+install rbenv
+install ruby-build
 install tig
+install tree
 install zsh
 
 # App Store applications
