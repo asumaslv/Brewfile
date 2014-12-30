@@ -11,6 +11,7 @@ cask install atom
 cask install dropbox
 cask install emacs
 cask install google-plus-auto-backup
+cask install grandperspective
 cask install iterm2
 cask install kobito
 cask install sequel-pro
