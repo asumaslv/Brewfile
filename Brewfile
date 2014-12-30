@@ -51,6 +51,7 @@ install pkg-config
 install protobuf
 install rbenv
 install ruby-build
+install ssh-copy-id
 install tig
 install tree
 install zsh
