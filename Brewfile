@@ -14,11 +14,13 @@ cask install google-plus-auto-backup
 cask install grandperspective
 cask install iterm2
 cask install kobito
+cask install pg-commander
 cask install sequel-pro
 cask install totalfinder
 cask install totalterminal
 cask install vagrant
 cask install virtualbox
+cask install vlc
 
 ## homebrew/binary
 tap homebrew/binary
