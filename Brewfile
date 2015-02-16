@@ -61,8 +61,6 @@ install zsh
 # App Store applications
 appstore 1Password
 appstore Airmail 2
-appstore Authy Bluetooth
-appstore Blackmagic Disk Speed Test
 appstore Clean
 appstore Dash
 appstore Display Menu
@@ -80,8 +78,6 @@ appstore Microsoft Remote Desktop
 appstore OneDrive
 appstore Pages
 appstore PopClip
-appstore Quartet for Keynote
-appstore QuickRes
 appstore Skitch
 appstore Slack
 appstore SourceTree
