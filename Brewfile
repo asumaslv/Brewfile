@@ -10,6 +10,9 @@ cask install appcleaner
 cask install atom
 cask install dropbox
 cask install emacs
+cask install expandrive
+cask install firefox
+cask install freemind
 cask install google-plus-auto-backup
 cask install grandperspective
 cask install iterm2
@@ -52,6 +55,7 @@ install pcre
 install pkg-config
 install protobuf
 install rbenv
+install readline
 install ruby-build
 install ssh-copy-id
 install tig
@@ -73,8 +77,8 @@ appstore Jettison
 appstore Keynote
 appstore LINE
 appstore MarsEdit
-appstore Microsoft OneNote
 appstore Microsoft Remote Desktop
+appstore MW Archiver
 appstore OneDrive
 appstore Pages
 appstore PopClip
